@@ -1,6 +1,6 @@
 apps:
 
-- name: backendUpSide
+- name: backend
   script: ./index.js
   exec_mode: cluster
   instances: 2
