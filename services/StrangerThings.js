@@ -17,7 +17,7 @@ class StrangerThingsService {
         status: flipout(status),
       }));
     }
-    console.log('entrei');
+
     return characters;
   }
 }
